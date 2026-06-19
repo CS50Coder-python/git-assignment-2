@@ -40,7 +40,7 @@ git push
 - To: `main`
 - Make sure you are **not** pull requesting upstream (my repository).  
   My username should not appear anywhere in the pull request.
-- It should look like: `main <- writing`
+- It should look like `main <- writing`
 
 7. Merge the pull request on GitHub.  
 (If GitHub does not let you merge, you likely pull requested upstream by mistake.)
